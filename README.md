@@ -34,6 +34,6 @@ Keras:            For installation you can refer this link: [https://keras.io/#i
 ```
 ```bash
 You can untar the data.tar.gz and model.tar.gz by using following command.
-$ sudo tar -xvzf community_images.tar.gz 
+$ sudo tar -xvzf Path and Name of tar.gz file [./community_images.tar.gz]
 
 ```
